@@ -155,8 +155,5 @@ public class Main {
         double annualSalaryKristina = monthlySalaryKristina * month;
         System.out.println("Годовая зарплата Кристины " + annualSalaryKristina + " рублей");
 
-
-
-
     }
 }
